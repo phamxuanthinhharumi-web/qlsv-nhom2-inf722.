@@ -155,3 +155,5 @@ test/helpers.js      khởi động máy chủ thử và máy khách có cookie
 
 - `public/grade.js`: quy tắc tính điểm học tập dạng hàm thuần, dùng chung cho giao diện và kiểm thử.
 - `prototype/`: hai prototype HTML ban đầu (dữ liệu giữ trong trình duyệt), chỉ để tham khảo lịch sử, không phải sản phẩm chính.
+
+- Thành viên thực hiện: Phạm Xuân Thịnh
